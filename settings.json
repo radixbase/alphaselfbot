@@ -3,6 +3,9 @@
   "prefix": "/",
   "embedimage": "https://i.imgur.com/tjlqNxt.gif",
   "footerimage": "https://i.imgur.com/nkjyDYU.gif",
-  "afkmode": "false"
+  "afkmode": "true",
+  "afkmessage": "Je suis AFK, me ping pas....",
+  "afktransmitchannel": "624716579728392225"
+
 
 }
