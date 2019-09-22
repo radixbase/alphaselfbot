@@ -1,6 +1,5 @@
 {
 "token": "tontoken",
-"premiumkey": "codeactivation",
 "mailusername": "adressemail" ,
 "mailpassword": "motdepassemail", 
 "mailhost": "smtp.live.com", 
