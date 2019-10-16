@@ -1,7 +1,0 @@
-{
-"token": "tontoken",
-"mailusername": "adressemail" ,
-"mailpassword": "motdepassemail", 
-"mailhost": "smtp.live.com", 
-"mailhostport": 587
-}
